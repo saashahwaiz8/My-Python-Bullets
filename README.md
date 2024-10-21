@@ -1,1 +1,1 @@
-# My-Python-Bullets
+# My-Python-Bullets! Press left click for bullets.
